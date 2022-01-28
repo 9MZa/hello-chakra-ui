@@ -72,7 +72,7 @@ export default function Home() {
                 right={"-125px"}
                 top={"-15px"}
                 transform={"rotate(10deg)"}>
-                Starting at $15/mo
+                Starting now!
               </Text>
             </Box>
           </Stack>
