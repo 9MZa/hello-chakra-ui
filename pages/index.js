@@ -44,7 +44,7 @@ export default function Home() {
             align={"center"}
             alignSelf={"center"}
             position={"relative"}>
-            <NextLink href="https://chakra-ui.com/">
+            <NextLink href="https://chakra-ui.com/" passHref>
               <Button
                 colorScheme={"green"}
                 bg={"green.400"}
